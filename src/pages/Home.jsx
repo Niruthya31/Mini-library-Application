@@ -1,16 +1,16 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './Home.css';
-import williamShakespear from '../assets/authors/William Shakespeare.jpg';
-import charlesDickens from '../assets/authors/charles Dickens.jpg';
-import franzKafka from '../assets/authors/Franz Kafka.jpg';
-import fyodorDostoevsky from '../assets/authors/Fyodor Dostoevsky.jpg';
-import gabrielMarquez from '../assets/authors/Gabriel Garcia Marquez.jpg';
-import georgeMartin from '../assets/authors/George R.R. Martin.jpg';
-import jkRowling from '../assets/authors/J.K. Rowling img.jpg';
-import jrrTolkien from '../assets/authors/J.R.R. Tolkien.jpg';
-import janeAusten from '../assets/authors/Jane Austen.jpg';
-import stephenKing from '../assets/authors/Stephen King.jpg';
+import williamShakespear from '../assets/authors/William-Shakespeare.jpg';
+import charlesDickens from '../assets/authors/charles-Dickens.jpg';
+import franzKafka from '../assets/authors/Franz-Kafka.jpg';
+import fyodorDostoevsky from '../assets/authors/Fyodor-Dostoevsky.jpg';
+import gabrielMarquez from '../assets/authors/Gabriel-Garcia-Marquez.jpg';
+import georgeMartin from '../assets/authors/George-R.R.Martin.jpg';
+import jkRowling from '../assets/authors/J.K.Rowling img.jpg';
+import jrrTolkien from '../assets/authors/J.R.R.Tolkien.jpg';
+import janeAusten from '../assets/authors/Jane-Austen.jpg';
+import stephenKing from '../assets/authors/Stephen-King.jpg';
 
 function Home() {
   const navigate = useNavigate();
