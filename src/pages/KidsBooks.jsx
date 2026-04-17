@@ -23,7 +23,7 @@ function KidsBooks() {
           id: 9, 
           title: "Writing Picture Books: A Hands-On Guide From Story Creation to Publication", 
           author: "Ann Whitford Paul", 
-          price: 24.99, 
+          price: 299, 
           category: "kidsbooks",
           subcategory: "picture-book",
           cover: pictureBookImg
@@ -32,7 +32,7 @@ function KidsBooks() {
           id: 10, 
           title: "Little Corner Cute & Comfy Coloring Book", 
           author: "Lukas Sommer", 
-          price: 12.99, 
+          price: 199, 
           category: "kidsbooks",
           subcategory: "coloring-book",
           cover: coloringBookImg
@@ -41,7 +41,7 @@ function KidsBooks() {
           id: 11, 
           title: "The Essential Collection for Young Readers", 
           author: "Ruskin Bond", 
-          price: 18.99, 
+          price: 199, 
           category: "kidsbooks",
           subcategory: "young-reader",
           cover: youngReaderImg
@@ -50,7 +50,7 @@ function KidsBooks() {
           id: 12, 
           title: "My First Ruskin Bond Collection", 
           author: "Ruskin Bond", 
-          price: 15.99, 
+          price: 199, 
           category: "kidsbooks",
           subcategory: "character-books",
           cover: characterBooksImg

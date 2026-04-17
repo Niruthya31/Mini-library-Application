@@ -23,7 +23,7 @@ function NonFiction() {
           id: 5, 
           title: "Albert Einstein: A Biography", 
           author: "Greenwood Biographies", 
-          price: 24.99, 
+          price: 249, 
           category: "nonfiction",
           genre: "biography",
           cover: biographyImg
@@ -32,7 +32,7 @@ function NonFiction() {
           id: 6, 
           title: "Speaking Of History: Conversations About India's Past And Present", 
           author: "Various Authors", 
-          price: 22.99, 
+          price: 299, 
           category: "nonfiction",
           genre: "history",
           cover: historyImg
@@ -41,7 +41,7 @@ function NonFiction() {
           id: 7, 
           title: "Ikigai: The Japanese Secret to a Long and Happy Life", 
           author: "Hector Garcia", 
-          price: 18.99, 
+          price: 199, 
           category: "nonfiction",
           genre: "self-help",
           cover: selfHelpImg
@@ -50,7 +50,7 @@ function NonFiction() {
           id: 8, 
           title: "Rich Dad Poor Dad", 
           author: "Robert Kiyosaki", 
-          price: 15.99, 
+          price: 159, 
           category: "nonfiction",
           genre: "business",
           cover: businessImg

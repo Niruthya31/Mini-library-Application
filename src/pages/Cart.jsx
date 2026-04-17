@@ -82,7 +82,7 @@ function Cart() {
           </div>
           <div className="summary-row">
             <span>Subtotal:</span>
-            <span>${cartTotal.toFixed(2)}</span>
+            <span>Rs : {cartTotal.toFixed(2)}</span>
           </div>
           <div className="summary-row">
             <span>Shipping:</span>
@@ -90,7 +90,7 @@ function Cart() {
           </div>
           <div className="summary-row total">
             <span>Total Price:</span>
-            <span>${cartTotal.toFixed(2)}</span>
+            <span>Rs : {cartTotal.toFixed(2)}</span>
           </div>
           <button className="checkout-btn" onClick={() => alert('Order Confirmed! Thank you for shopping with us.')}>
             Confirm Order

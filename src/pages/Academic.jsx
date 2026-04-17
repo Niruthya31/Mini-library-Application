@@ -23,7 +23,7 @@ function Academic() {
           id: 13, 
           title: "NCERT Mathematics Textbook For Class 9", 
           author: "Multiple Authors", 
-          price: 24.99, 
+          price: 299, 
           category: "academic",
           subcategory: "textbook",
           cover: textbookImg
@@ -32,7 +32,7 @@ function Academic() {
           id: 14, 
           title: "Official Reference Book (Classic Reprint)", 
           author: "Press Club of Chicago", 
-          price: 34.99, 
+          price: 399, 
           category: "academic",
           subcategory: "reference",
           cover: referenceImg
@@ -41,7 +41,7 @@ function Academic() {
           id: 15, 
           title: "The Only Study Guide You'll Ever Need", 
           author: "Jade Bowler", 
-          price: 19.99, 
+          price: 199, 
           category: "academic",
           subcategory: "study-guide",
           cover: studyGuideImg
