@@ -2,10 +2,10 @@ import React, { useState, useEffect } from 'react';
 import { useCart } from '../CartContext';
 import './Category.css';
 
-import pictureBookImg from '../assets/books/kids/picture-book.jpg';
-import coloringBookImg from '../assets/books/kids/coloring-book.jpg';
-import youngReaderImg from '../assets/books/kids/young-reader.jpg';
-import characterBooksImg from '../assets/books/kids/character-books.jpg';
+import pictureBookImg from '../assets/books/Kids/picture-book.jpg';
+import coloringBookImg from '../assets/books/Kids/coloring-book.jpg';
+import youngReaderImg from '../assets/books/Kids/young-reader.jpg';
+import characterBooksImg from '../assets/books/Kids/character-books.jpg';
 
 function KidsBooks() {
   const [books, setBooks] = useState([]);
