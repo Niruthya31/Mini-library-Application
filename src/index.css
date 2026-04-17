@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f5f5f5;
+  overflow-x: hidden;
+  width: 100%;
+  position: relative;
+  padding-top: 70px;
+}
+
+.home::before,
+.home::after,
+.header-bottom-section::before,
+.category-card,
+.feature,
+.nav-btn,
+.cart-icon-link,
+.subscribe-btn {
+  animation: none !important;
+  transition: none !important;
+}
+
+@media (max-width: 768px) {
+  body {
+    padding-top: 100px;
+  }
+}
