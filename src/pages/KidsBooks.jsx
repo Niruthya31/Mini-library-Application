@@ -5,7 +5,7 @@ import './Category.css';
 import pictureBookImg from '../assets/books/kids/picture-book.jpg';
 import coloringBookImg from '../assets/books/kids/coloring-book.jpg';
 import youngReaderImg from '../assets/books/kids/young-reader.jpg';
-import characterBooksImg from '../assets/books/kids/charector-books.jpg';
+import characterBooksImg from '../assets/books/kids/character-books.jpg.jpg';
 
 function KidsBooks() {
   const [books, setBooks] = useState([]);
